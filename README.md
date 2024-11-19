@@ -88,8 +88,14 @@
 
 ###
 
-<br clear="both">
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://TheRonBajrami.github.io/TheRonBajrami/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://TheRonBajrami.github.io/TheRonBajrami/github-snake.svg" />
+    <img alt="github-snake" src="https://TheRonBajrami.github.io/TheRonBajrami/github-snake.svg" />
+  </picture>
+</p>
 
-<img src="https://raw.githubusercontent.com/TheRonBajrami/TheRonBajrami/output/snake.svg" alt="Snake animation" />
+
 
 ###
