@@ -1,5 +1,14 @@
 <h5 align="left">👋 Hi, I’m Ron Bajrami – a passionate Computer Science student at UMass Amherst with a GPA of 3.93/4.00. I specialize in building innovative software solutions, from full-stack web development to robotics and AI-driven applications.<br><br>🌟 About Me:<br>🚀 Developer & Innovator: From creating a humanoid robot with the UMass Robotics Club to designing a Web3 crypto wallet extension, I thrive on solving complex problems with cutting-edge technologies.<br><br>💡 Leader: As the President and Founder of the Albanian Student Association and Event Coordinator for the UMass Boxing Club, I enjoy creating inclusive communities and organizing impactful events.<br><br>💻 Technical Skills: Proficient in Python, Java, JavaScript, TypeScript, C++, SQL, and more. Experienced with frameworks like React, ROS, Tailwind CSS, and Django.<br><br>🔍 Current Interests: Cybersecurity, AI, and entrepreneurship. I aspire to merge these fields to build technology that makes the world safer and more innovative.<br><br>📚 Projects:<br>🥊 UMass Boxing Club Website: Developed a dynamic, user-friendly site for promoting the club and managing schedules.<br>🌐 Crypto Wallet Extension: Built a Web3 browser extension using React and Node.js to securely manage digital assets.<br>🤖 Humanoid Robot: Led the software and hardware development for a humanoid robot as part of the UMass Robotics Club.<br>📱 Finsta App: Engineered a feature-rich mobile app using React Native and TypeScript with Appwrite integration.<br><br>🌍 Let’s Connect:<br>I’m always excited to collaborate on impactful projects, contribute to open-source, and discuss ideas about AI, robotics, and tech entrepreneurship. Reach out if you want to build something amazing together!</h5>
 
+<div align="left">
+  <a href="mailto:ronbajrami2005@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https:\\www.linkedin.com/in/ronbajrami" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
 ###
 
 <div align="center">
@@ -77,24 +86,9 @@
 
 ###
 
-<div align="left">
-  <a href="mailto:ronbajrami2005@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https:\\www.linkedin.com/in/ronbajrami" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
 
 ###
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://TheRonBajrami.github.io/TheRonBajrami/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://TheRonBajrami.github.io/TheRonBajrami/github-snake.svg" />
-    <img alt="github-snake" src="https://TheRonBajrami.github.io/TheRonBajrami/github-snake.svg" />
-  </picture>
-</p>
 
 
 
