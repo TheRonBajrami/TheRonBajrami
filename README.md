@@ -10,6 +10,28 @@
 
 ---
 
+## Leadership Experience
+
+### UMass Albanian Club
+- Founded and led the Albanian Student Association, fostering cultural exchange and creating an inclusive community for Albanian students and allies at UMass Amherst.
+
+### Pi Kappa Alpha (Pike)
+- Active member of Pi Kappa Alpha, contributing to fraternity leadership initiatives, philanthropy events, and fostering a supportive brotherhood environment.
+
+### HackUMass
+- Played a key role in organizing one of the largest collegiate hackathons in the Northeast, facilitating collaboration and innovation among 900+ participants.
+
+### Hack(H)er
+- Supported the execution of Hack(H)er, a hackathon focused on empowering women and non-binary individuals in technology, ensuring a welcoming and productive experience.
+
+### UMass Robotics Club
+- Directed and contributed to robotics projects, including the development of a humanoid robot with advanced motion control and autonomous navigation capabilities.
+
+### UMass Boxing Club
+- Served as Event Coordinator, managing club activities, organizing events, and increasing participation through targeted promotions and engagement efforts.
+
+---
+
 ## 📚 Featured Projects
 
 ### [Dua Gelato Website](https://duagelato.com)
@@ -34,7 +56,9 @@
 I’m always excited to collaborate on impactful projects and discuss emerging trends in AI, robotics, and tech entrepreneurship.
 
 - **Website:** [ronbajrami.com](https://ronbajrami.com)
+- **GitHub:** [github.com/ronbajrami](https://github.com/ronbajrami)
 - **LinkedIn:** [linkedin.com/in/ronbajrami](https://linkedin.com/in/ronbajrami)
+
 
 <div align="left">
   <a href="mailto:ronbajrami2005@gmail.com" target="_blank">
