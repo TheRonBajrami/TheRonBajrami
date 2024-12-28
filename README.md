@@ -4,7 +4,7 @@
 👋 Hi, I’m Ron Bajrami, a passionate Computer Science student at Boston University (previously at UMass Amherst) with a focus on building innovative software and hardware solutions. With experience in full-stack development, robotics, and AI, I aim to push the boundaries of technology to solve real-world problems.
 
 ### 🌟 Highlights:
-- **Developer & Innovator:** Led the development of a humanoid robot with the UMass Robotics Club and built scalable web applications and systems.
+- **Developer & Innovator:** Developing a humanoid robot with the UMass Robotics Club and building scalable web applications and systems.
 - **Leader:** Founded the Albanian Student Association and served as Event Coordinator for the UMass Boxing Club, fostering community and collaboration.
 - **Technical Skills:** Proficient in Python, Java, C++, JavaScript, TypeScript, SQL, and frameworks like React, ROS, Spring Boot, and Django.
 
@@ -46,8 +46,8 @@
 - Implemented a React and Node.js extension for secure transactions and portfolio management.
 - Optimized Moralis workflows, improving transaction reliability by 10%.
 
-### [Humanoid Robot Development](https://github.com/UMassRobotics)
-- Led software and hardware integration for a humanoid robot with ROS, OpenCV, and LiDAR.
+### [Humanoid Robot Development]
+- Software and hardware integration for a humanoid robot with ROS, OpenCV, and LiDAR.
 - Enhanced motion control and navigation, improving competitive performance.
 
 ---
@@ -56,7 +56,6 @@
 I’m always excited to collaborate on impactful projects and discuss emerging trends in AI, robotics, and tech entrepreneurship.
 
 - **Website:** [ronbajrami.com](https://ronbajrami.com)
-- **GitHub:** [github.com/ronbajrami](https://github.com/ronbajrami)
 - **LinkedIn:** [linkedin.com/in/ronbajrami](https://linkedin.com/in/ronbajrami)
 
 
