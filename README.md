@@ -56,8 +56,6 @@
 I’m always excited to collaborate on impactful projects and discuss emerging trends in AI, robotics, and tech entrepreneurship.
 
 - **Website:** [ronbajrami.com](https://ronbajrami.com)
-- **LinkedIn:** [linkedin.com/in/ronbajrami](https://linkedin.com/in/ronbajrami)
-
 
 <div align="left">
   <a href="mailto:ronbajrami2005@gmail.com" target="_blank">
