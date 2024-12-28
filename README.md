@@ -38,11 +38,11 @@
 - Built a responsive client website with React, Node.js, and MongoDB, boosting engagement by 25% and orders by 40%.
 - Designed a custom UI/UX in Figma and integrated Express.js and AWS for scalability.
 
-### [UMass Boxing Club Website](https://github.com/UMass-Boxing-Club)
+### [UMass Boxing Club Website](https://github.com/TheRonBajrami/Umass-Boxing-club).
 - Developed a website with React, TypeScript, and Node.js, increasing membership inquiries by 30%.
 - Streamlined event promotions and registrations by implementing backend form submissions, reducing processing time by 40%.
 
-### [Crypto Wallet Chrome Extension](https://github.com/Crypto-Wallet-Extension)
+### [Crypto Wallet Chrome Extension](https://github.com/TheRonBajrami/Crypto-Wallet-Extension)
 - Implemented a React and Node.js extension for secure transactions and portfolio management.
 - Optimized Moralis workflows, improving transaction reliability by 10%.
 
