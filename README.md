@@ -46,7 +46,7 @@
 - Implemented a React and Node.js extension for secure transactions and portfolio management.
 - Optimized Moralis workflows, improving transaction reliability by 10%.
 
-### [Humanoid Robot Development]
+### Humanoid Robot Development
 - Software and hardware integration for a humanoid robot with ROS, OpenCV, and LiDAR.
 - Enhanced motion control and navigation, improving competitive performance.
 
