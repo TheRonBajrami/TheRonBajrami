@@ -42,7 +42,7 @@
 - Developed a website with React, TypeScript, and Node.js, increasing membership inquiries by 30%.
 - Streamlined event promotions and registrations by implementing backend form submissions, reducing processing time by 40%.
 
-### [Crypto Wallet Chrome Extension] (https://github.com/TheRonBajrami/Crypto-Wallet-Extension-)
+### [Crypto Wallet Chrome Extension](https://github.com/TheRonBajrami/Crypto-Wallet-Extension-)
 - Implemented a React and Node.js extension for secure transactions and portfolio management.
 - Optimized Moralis workflows, improving transaction reliability by 10%.
 
