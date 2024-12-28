@@ -1,4 +1,40 @@
-<h5 align="left">👋 Hi, I’m Ron Bajrami – a passionate Computer Science student at UMass Amherst with a GPA of 3.93/4.00. I specialize in building innovative software solutions, from full-stack web development to robotics and AI-driven applications.<br><br>🌟 About Me:<br>🚀 Developer & Innovator: From creating a humanoid robot with the UMass Robotics Club to designing a Web3 crypto wallet extension, I thrive on solving complex problems with cutting-edge technologies.<br><br>💡 Leader: As the President and Founder of the Albanian Student Association and Event Coordinator for the UMass Boxing Club, I enjoy creating inclusive communities and organizing impactful events.<br><br>💻 Technical Skills: Proficient in Python, Java, JavaScript, TypeScript, C++, SQL, and more. Experienced with frameworks like React, ROS, Tailwind CSS, and Django.<br><br>🔍 Current Interests: Cybersecurity, AI, and entrepreneurship. I aspire to merge these fields to build technology that makes the world safer and more innovative.<br><br>📚 Projects:<br>🥊 UMass Boxing Club Website: Developed a dynamic, user-friendly site for promoting the club and managing schedules.<br>🌐 Crypto Wallet Extension: Built a Web3 browser extension using React and Node.js to securely manage digital assets.<br>🤖 Humanoid Robot: Led the software and hardware development for a humanoid robot as part of the UMass Robotics Club.<br>📱 Finsta App: Engineered a feature-rich mobile app using React Native and TypeScript with Appwrite integration.<br><br>🌍 Let’s Connect:<br>I’m always excited to collaborate on impactful projects, contribute to open-source, and discuss ideas about AI, robotics, and tech entrepreneurship. Reach out if you want to build something amazing together!</h5>
+# Ron Bajrami
+
+## About Me
+👋 Hi, I’m Ron Bajrami, a passionate Computer Science student at Boston University (previously at UMass Amherst) with a focus on building innovative software and hardware solutions. With experience in full-stack development, robotics, and AI, I aim to push the boundaries of technology to solve real-world problems.
+
+### 🌟 Highlights:
+- **Developer & Innovator:** Led the development of a humanoid robot with the UMass Robotics Club and built scalable web applications and systems.
+- **Leader:** Founded the Albanian Student Association and served as Event Coordinator for the UMass Boxing Club, fostering community and collaboration.
+- **Technical Skills:** Proficient in Python, Java, C++, JavaScript, TypeScript, SQL, and frameworks like React, ROS, Spring Boot, and Django.
+
+---
+
+## 📚 Featured Projects
+
+### [Dua Gelato Website](https://duagelato.com)
+- Built a responsive client website with React, Node.js, and MongoDB, boosting engagement by 25% and orders by 40%.
+- Designed a custom UI/UX in Figma and integrated Express.js and AWS for scalability.
+
+### [UMass Boxing Club Website](https://github.com/UMass-Boxing-Club)
+- Developed a website with React, TypeScript, and Node.js, increasing membership inquiries by 30%.
+- Streamlined event promotions and registrations by implementing backend form submissions, reducing processing time by 40%.
+
+### [Crypto Wallet Chrome Extension](https://github.com/Crypto-Wallet-Extension)
+- Implemented a React and Node.js extension for secure transactions and portfolio management.
+- Optimized Moralis workflows, improving transaction reliability by 10%.
+
+### [Humanoid Robot Development](https://github.com/UMassRobotics)
+- Led software and hardware integration for a humanoid robot with ROS, OpenCV, and LiDAR.
+- Enhanced motion control and navigation, improving competitive performance.
+
+---
+
+## 🌍 Let’s Connect
+I’m always excited to collaborate on impactful projects and discuss emerging trends in AI, robotics, and tech entrepreneurship.
+
+- **Website:** [ronbajrami.com](https://ronbajrami.com)
+- **LinkedIn:** [linkedin.com/in/ronbajrami](https://linkedin.com/in/ronbajrami)
 
 <div align="left">
   <a href="mailto:ronbajrami2005@gmail.com" target="_blank">
