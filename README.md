@@ -1,7 +1,7 @@
 # Ron Bajrami
 
 ## About Me
-👋 Hi, I’m Ron Bajrami, a passionate Computer Science student at Boston University (previously at UMass Amherst) with a focus on building innovative software and hardware solutions. With experience in full-stack development, robotics, and AI, I aim to push the boundaries of technology to solve real-world problems.
+👋 Hi, I’m Ron Bajrami, a passionate Computer Science student at Boston University with a focus on building innovative software and hardware solutions. With experience in full-stack development, robotics, and AI, I aim to push the boundaries of technology to solve real-world problems.
 
 ### 🌟 Highlights:
 - **Developer & Innovator:** Developing a humanoid robot with the UMass Robotics Club and building scalable web applications and systems.
