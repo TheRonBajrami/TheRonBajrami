@@ -1,61 +1,19 @@
-# Ron Bajrami
+# Hi, I’m Ron Bajrami 👋
 
-## About Me
-👋 Hi, I’m Ron Bajrami, a passionate Computer Science student at Boston University with a focus on building innovative software and hardware solutions. With experience in full-stack development, robotics, and AI, I aim to push the boundaries of technology to solve real-world problems.
+- Software Engineering Intern @ Fidelity Investments (Return Offer)
+- Netflix SWE Fellow | Boston University CS ‘27
 
-### 🌟 Highlights:
-- **Developer & Innovator:** Developing a humanoid robot with the UMass Robotics Club and building scalable web applications and systems.
-- **Leader:** Founded the Albanian Student Association and served as Event Coordinator for the UMass Boxing Club, fostering community and collaboration.
-- **Technical Skills:** Proficient in Python, Java, C++, JavaScript, TypeScript, SQL, and frameworks like React, ROS, Spring Boot, and Django.
+**Skills:**  
+Python, Java, C#, C++, JavaScript, TypeScript, Go, SQL, React, Node.js, Backstage, AWS, Azure, MongoDB, Git, CI/CD, Linux, UNIX
 
----
+**Notable Work:**  
+- Built full-stack accessibility tools at Fidelity, impacting 10,000+ devs and reducing manual checks by 40%
+- Developed a humanoid robot at UMass Robotics, improving real-time motion control and object detection
+- Created [duagelato.com](https://duagelato.com/), an e-commerce platform built with React, Node.js, and MongoDB
 
-## Leadership Experience
+Let’s connect:  
 
-### UMass Albanian Club
-- Founded and led the Albanian Student Association, fostering cultural exchange and creating an inclusive community for Albanian students and allies at UMass Amherst.
 
-### Pi Kappa Alpha (Pike)
-- Active member of Pi Kappa Alpha, contributing to fraternity leadership initiatives, philanthropy events, and fostering a supportive brotherhood environment.
-
-### HackUMass
-- Played a key role in organizing one of the largest collegiate hackathons in the Northeast, facilitating collaboration and innovation among 900+ participants.
-
-### Hack(H)er
-- Supported the execution of Hack(H)er, a hackathon focused on empowering women and non-binary individuals in technology, ensuring a welcoming and productive experience.
-
-### UMass Robotics Club
-- Directed and contributed to robotics projects, including the development of a humanoid robot with advanced motion control and autonomous navigation capabilities.
-
-### UMass Boxing Club
-- Served as Event Coordinator, managing club activities, organizing events, and increasing participation through targeted promotions and engagement efforts.
-
----
-
-## 📚 Featured Projects
-
-### [Dua Gelato Website](https://duagelato.com)
-- Built a responsive client website with React, Node.js, and MongoDB, boosting engagement by 25% and orders by 40%.
-- Designed a custom UI/UX in Figma and integrated Express.js and AWS for scalability.
-
-### [UMass Boxing Club Website](https://github.com/TheRonBajrami/Umass-Boxing-club)
-- Developed a website with React, TypeScript, and Node.js, increasing membership inquiries by 30%.
-- Streamlined event promotions and registrations by implementing backend form submissions, reducing processing time by 40%.
-
-### [Crypto Wallet Chrome Extension](https://github.com/TheRonBajrami/Crypto-Wallet-Extension-)
-- Implemented a React and Node.js extension for secure transactions and portfolio management.
-- Optimized Moralis workflows, improving transaction reliability by 10%.
-
-### Humanoid Robot Development
-- Software and hardware integration for a humanoid robot with ROS, OpenCV, and LiDAR.
-- Enhanced motion control and navigation, improving competitive performance.
-
----
-
-## 🌍 Let’s Connect
-I’m always excited to collaborate on impactful projects and discuss emerging trends in AI, robotics, and tech entrepreneurship.
-
-- **Website:** [ronbajrami.com](https://ronbajrami.com)
 
 <div align="left">
   <a href="mailto:ronbajrami2005@gmail.com" target="_blank">
