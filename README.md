@@ -1,4 +1,4 @@
-# Hi, I’m Ron Bajrami 👋
+# Hi, I’m Ron 👋
 
 - Software Engineering Intern @ Fidelity Investments (Return Offer)
 - Netflix SWE Fellow | Boston University CS ‘27
