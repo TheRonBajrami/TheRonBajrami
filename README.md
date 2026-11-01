@@ -16,10 +16,8 @@ Computer Science at **Boston University** · Two-time SWE intern at **Fidelity I
 
 ### about
 
-- Joining Fidelity full time as a Software Engineer in 2027 after two internships there
 - Co-founded **Wynr**, a sports analytics iOS app with paying subscribers
 - Netflix Software Engineering Fellow (1 of 40 selected nationally)
-- Currently deep in Distributed Systems (Go), Databases, and AI at BU
 - Open to new grad roles, internships, and co-ops
 
 <br>
