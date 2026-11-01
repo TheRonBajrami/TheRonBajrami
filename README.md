@@ -8,7 +8,7 @@ Computer Science at **Boston University** · Two-time SWE intern at **Fidelity I
 
 [![Website](https://img.shields.io/badge/ronbajrami.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://ronbajrami.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronbajrami)
-[![Wynr](https://img.shields.io/badge/Wynr_on_the_App_Store-111111?style=for-the-badge&logo=apple&logoColor=white)](https://apps.apple.com/us/app/wynr/id6757320926)
+[![Wynr](https://img.shields.io/badge/wynr.ai-111111?style=for-the-badge&logo=apple&logoColor=white)](https://wynr.ai/)
 
 </div>
 
@@ -39,7 +39,7 @@ Computer Science at **Boston University** · Two-time SWE intern at **Fidelity I
 <tr>
 <td colspan="2" valign="top">
 
-**[Wynr](https://apps.apple.com/us/app/wynr/id6757320926)**<br>
+**[Wynr](https://wynr.ai/)**<br>
 <sub>iOS · Swift · Startup</sub><br>
 Sports analytics app on the App Store with paying subscribers. Co-founded and built from zero to launch.
 
