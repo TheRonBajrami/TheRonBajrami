@@ -42,19 +42,10 @@ Computer Science at **Boston University** · Two-time SWE intern at **Fidelity I
 <td width="50%" valign="top">
 
 **[Wynr](https://apps.apple.com/us/app/wynr/id6757320926)**<br>
-<sub>iOS · Swift</sub><br>
-Sports analytics app on the App Store with paying subscribers. Co-built from zero to launch.
+<sub>iOS · Swift · Startup</sub><br>
+Sports analytics app on the App Store with paying subscribers. Co-founded and built from zero to launch.
 
 </td>
-<td width="50%" valign="top">
-
-**[Atlas](https://atlasappai.vercel.app)**<br>
-<sub>Team hackathon project · Contributor</sub><br>
-AI app my team built and shipped during a hackathon.
-
-</td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Dua Gelato](https://duagelato.com)**<br>
@@ -62,11 +53,20 @@ AI app my team built and shipped during a hackathon.
 Production website for a real business, designed and delivered end to end.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**[ronbajrami.com](https://ronbajrami.com)**<br>
-<sub>Portfolio · GitHub Pages</sub><br>
-My personal site, custom designed from scratch.
+**[Walletly](https://github.com/TheRonBajrami/Crypto-Wallet-Extension-)**<br>
+<sub>React · TypeScript · Node.js · ethers.js</sub><br>
+Crypto wallet that generates seed phrases, creates and restores Ethereum wallets, and shows balances via Moralis.
+
+</td>
+<td width="50%" valign="top">
+
+**[ToDoList](https://github.com/TheRonBajrami/ToDoList-App)**<br>
+<sub>SwiftUI · Firebase · GCP</sub><br>
+iOS task app with Firebase Authentication and Cloud Firestore sync.
 
 </td>
 </tr>
