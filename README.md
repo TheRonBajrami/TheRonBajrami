@@ -92,7 +92,7 @@ Crypto wallet that generates seed phrases, creates and accesses Ethereum wallets
 
 ### beyond code
 
-Speak English, Albanian, Macedonian, French, and Serbo-Croatian · Founded the Albanian Club at BU · Helped raise $80,000 for the Children's Glaucoma Foundation
+Speak English, Albanian, Macedonian, French, and Serbo-Croatian · Helped raise $80,000 for the Children's Glaucoma Foundation
 
 <br>
 
