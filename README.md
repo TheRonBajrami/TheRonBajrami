@@ -49,8 +49,8 @@ Sports analytics app on the App Store with paying subscribers. Co-built from zer
 <td width="50%" valign="top">
 
 **[Atlas](https://atlasappai.vercel.app)**<br>
-<sub>Hackathon · Next.js · Vercel</sub><br>
-AI app built and shipped during a hackathon.
+<sub>Team hackathon project · Contributor</sub><br>
+AI app my team built and shipped during a hackathon.
 
 </td>
 </tr>
