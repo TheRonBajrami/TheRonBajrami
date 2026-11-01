@@ -40,7 +40,7 @@ Computer Science at **Boston University** · Two-time SWE intern at **Fidelity I
 <td colspan="2" valign="top">
 
 **[Wynr](https://apps.apple.com/us/app/wynr/id6757320926)**<br>
-<sub>iOS · React · TypeScript · Supabase</sub><br>
+<sub>iOS · Swift · Startup</sub><br>
 Sports analytics app on the App Store with paying subscribers. Co-founded and built from zero to launch.
 
 </td>
