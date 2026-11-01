@@ -39,13 +39,15 @@ Computer Science at **Boston University** · Two-time SWE intern at **Fidelity I
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 **[Wynr](https://apps.apple.com/us/app/wynr/id6757320926)**<br>
 <sub>iOS · Swift · Startup</sub><br>
 Sports analytics app on the App Store with paying subscribers. Co-founded and built from zero to launch.
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 **[Dua Gelato](https://duagelato.com)**<br>
@@ -53,20 +55,11 @@ Sports analytics app on the App Store with paying subscribers. Co-founded and bu
 Production website for a real business, designed and delivered end to end.
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 **[Walletly](https://github.com/TheRonBajrami/Crypto-Wallet-Extension-)**<br>
 <sub>React · TypeScript · Node.js · ethers.js</sub><br>
 Crypto wallet that generates seed phrases, creates and accesses Ethereum wallets, and displays wallet addresses using ethers.js and Moralis.
-
-</td>
-<td width="50%" valign="top">
-
-**[Stock Predictor](https://github.com/TheRonBajrami/Stock-Predictor-Web-App)**<br>
-<sub>Python · Streamlit · Prophet</sub><br>
-Web app that pulls historical stock data and forecasts future prices with Facebook's Prophet model.
 
 </td>
 </tr>
