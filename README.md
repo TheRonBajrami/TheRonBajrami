@@ -55,7 +55,7 @@ Production website for a real business, designed and delivered end to end.
 </td>
 <td width="50%" valign="top">
 
-**[Walletly](https://github.com/TheRonBajrami/Crypto-Wallet-Extension-)**<br>
+**[Walletly](https://github.com/TheRonBajrami/walletly)**<br>
 <sub>React · TypeScript · Node.js · ethers.js</sub><br>
 Crypto wallet that generates seed phrases, creates and accesses Ethereum wallets, and displays wallet addresses using ethers.js and Moralis.
 
