@@ -26,7 +26,7 @@ Computer Science at **Boston University** · Two-time SWE intern at **Fidelity I
 
 ### experience
 
-| | role | when |
+| company | role | when |
 |---|---|---|
 | **Fidelity Investments** | Software Engineering Intern | Summer 2026 |
 | **Fidelity Investments** | Software Engineering Intern | Summer 2025 |
