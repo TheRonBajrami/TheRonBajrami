@@ -64,9 +64,9 @@ Crypto wallet that generates seed phrases, creates and accesses Ethereum wallets
 </td>
 <td width="50%" valign="top">
 
-**[ToDoList](https://github.com/TheRonBajrami/ToDoList-App)**<br>
-<sub>SwiftUI · Firebase · GCP</sub><br>
-iOS task app with Firebase Authentication and Cloud Firestore sync.
+**[Stock Predictor](https://github.com/TheRonBajrami/Stock-Predictor-Web-App)**<br>
+<sub>Python · Streamlit · Prophet</sub><br>
+Web app that pulls historical stock data and forecasts future prices with Facebook's Prophet model.
 
 </td>
 </tr>
